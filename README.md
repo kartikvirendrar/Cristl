@@ -1,2 +1,4 @@
 # Cristl
-This is a repository for tensorflow API based project for cristl members.
+
+Accelerometer and Gyroscope Dataset:-
+https://zenodo.org/record/4642560#.YT20iJ37REZ
