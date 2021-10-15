@@ -17,6 +17,14 @@ Class distribution: {
 	Walking Upstairs  	-> 24,396 -> 8.24%,
 	Walking Downstairs  	-> 25,188 -> 8.51% }
 	
+	
+Visual representation of preprocessed data-
+![image](https://user-images.githubusercontent.com/78409662/137516877-6fcec505-d18f-4616-a825-cca2fed58502.png)     ![image](https://user-images.githubusercontent.com/78409662/137517024-f9b8a7e5-71d9-4110-82ea-2ee662f3cd02.png)        ![image](https://user-images.githubusercontent.com/78409662/137517167-68443155-95c4-4653-af45-1816523d8d4b.png)
+
+
+
+
+
 Tutorials viewed-
 https://youtu.be/VFEOskzhhbc
 https://youtu.be/chQNuV9B-Rw
