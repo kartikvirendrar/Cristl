@@ -19,7 +19,21 @@ Class distribution: {
 	
 	
 Visual representation of preprocessed data-
-![image](https://user-images.githubusercontent.com/78409662/137516877-6fcec505-d18f-4616-a825-cca2fed58502.png)     ![image](https://user-images.githubusercontent.com/78409662/137517024-f9b8a7e5-71d9-4110-82ea-2ee662f3cd02.png)        ![image](https://user-images.githubusercontent.com/78409662/137517167-68443155-95c4-4653-af45-1816523d8d4b.png)
+
+Accelerometer-
+
+![image](https://user-images.githubusercontent.com/78409662/137516877-6fcec505-d18f-4616-a825-cca2fed58502.png)     
+![image](https://user-images.githubusercontent.com/78409662/137517024-f9b8a7e5-71d9-4110-82ea-2ee662f3cd02.png)        
+![image](https://user-images.githubusercontent.com/78409662/137517167-68443155-95c4-4653-af45-1816523d8d4b.png)
+
+
+Gyroscope-
+
+![image](https://user-images.githubusercontent.com/78409662/137517433-a9d92f18-c30f-4d2f-8dbd-bde7df42b937.png)
+![image](https://user-images.githubusercontent.com/78409662/137517961-a9467ba8-4dd4-4883-9c35-839aed47570f.png)
+![image](https://user-images.githubusercontent.com/78409662/137518179-31afa404-5ee7-487a-b12f-0a9caeb4c4fd.png)
+
+
 
 
 
