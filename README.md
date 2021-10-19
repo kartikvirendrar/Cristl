@@ -56,7 +56,7 @@ Real-time sensing on android-Yin Yan, Ethan Blanton, Lukasz Ziarek
 Boosting Inertial-Based HAR Model with Transformers - https://sci-hub.mksa.top/10.1109/access.2021.3070646
 
 	
-Visual representation of preprocessed data-
+# Visual representation of preprocessed data-
 
 Accelerometer-
 
