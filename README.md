@@ -4,6 +4,7 @@ The Idea behind the project was to learn about Learn the fundamentals of machine
 The selected Human activity recognition(HMU) dataset has 3-axis accelerometer and gyroscope data bifurcated into 10 different categories:-
 
 Class distribution: 
+
 {
 	Sitting in a Chair 	-> 37,144 -> 12.55%,
 	
