@@ -21,15 +21,22 @@ This project focuses on Processing real-time sensor data and deploying it on dif
 # Resources
 Tutorials viewed-
 https://youtu.be/VFEOskzhhbc
+
 https://youtu.be/chQNuV9B-Rw
+
 https://youtu.be/p_tpQSY1aTs
+
 https://youtu.be/uIcqeP7MFH0
+
 https://youtu.be/ZnukSLKEw34
+
 https://youtu.be/DKosV_-4pdQ
 
 Research papers reviewed-
 Human activity recognition-Kaiwalya Belsare and Gauri Rasane.
+
 Human Daily Activity Recognition Performed Using Wearable Inertial Sensors Combined With Deep Learning Algorithms-CHIH-TA YEN , (Member, IEEE), JIA-XIAN LIAO, AND YI-KAI HUANG
+
 Real-time sensing on android-Yin Yan, Ethan Blanton, Lukasz Ziarek
 
 Boosting Inertial-Based HAR Model with Transformers - https://sci-hub.mksa.top/10.1109/access.2021.3070646
