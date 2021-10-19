@@ -2,17 +2,28 @@
 The Idea behind the project was to learn about Learn the fundamentals of machine learning and deep learning and experiment with different types of models and find the ones with the highest accuracy using IMU dataset.  
 
 The selected Human activity recognition(HMU) dataset has 3-axis accelerometer and gyroscope data bifurcated into 10 different categories:-
+
 Class distribution: {
 	Sitting in a Chair 	-> 37,144 -> 12.55%,
+	
 	Sitting in a Couch 	-> 35,344 -> 11.94%,
+	
 	Standing  		-> 31,190 -> 10.54%,
+	
 	Lying up  		-> 32,389 -> 10.94%,
+	
 	Lying side  		-> 29,984 -> 10.13%,
+	
 	Device on surface  	-> 30,000 -> 10.13%,
+	
 	Walking  		-> 27,600 -> 9.32%,
+	
 	Running  		-> 22,792 -> 7.70%,
+	
 	Walking Upstairs  	-> 24,396 -> 8.24%,
+	
 	Walking Downstairs  	-> 25,188 -> 8.51% }
+
 Python,Tensorflow and Tensorflow-Lite are the main tools used. Tensorflow is used for creating different Deep Learning models like LSTM,BERT,GPT-3. Tensorflow-Lite is used for executing a on-device model in order to make predictions based on input data. To perform an inference with a TensorFlow Lite model, you must run it through an interpreter. The TensorFlow Lite interpreter is designed to be lean and fast.
 
 # Aim
