@@ -19,7 +19,8 @@ Python,Tensorflow and Tensorflow-Lite are the main tools used. Tensorflow is use
 This project focuses on Processing real-time sensor data and deploying it on different functionality devices like Smartphones, microcontrollers for application in autonomous vehicles and Location tracking.
 
 # Resources
-Tutorials viewed-
+1.Tutorials viewed-
+
 https://youtu.be/VFEOskzhhbc
 
 https://youtu.be/chQNuV9B-Rw
@@ -32,7 +33,8 @@ https://youtu.be/ZnukSLKEw34
 
 https://youtu.be/DKosV_-4pdQ
 
-Research papers reviewed-
+2.Research papers reviewed-
+
 Human activity recognition-Kaiwalya Belsare and Gauri Rasane.
 
 Human Daily Activity Recognition Performed Using Wearable Inertial Sensors Combined With Deep Learning Algorithms-CHIH-TA YEN , (Member, IEEE), JIA-XIAN LIAO, AND YI-KAI HUANG
