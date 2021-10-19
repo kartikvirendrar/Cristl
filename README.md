@@ -5,7 +5,7 @@ The selected Human activity recognition(HMU) dataset has 3-axis accelerometer an
 
 Class distribution: 
 
-  {Sitting in a Chair 	-> 37,144 -> 12.55%,
+   {Sitting in a Chair 	-> 37,144 -> 12.55%,
 	
 	Sitting in a Couch 	-> 35,344 -> 11.94%,
 	
