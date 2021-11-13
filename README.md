@@ -75,3 +75,5 @@ Gyroscope-
 
 ![image](https://user-images.githubusercontent.com/78409662/137518179-31afa404-5ee7-487a-b12f-0a9caeb4c4fd.png)
 
+
+Protobuffer file - https://www.linkedin.com/pulse/running-tensorflow-models-android-explaining-basics-behind-chaudhary/
